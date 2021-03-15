@@ -10,10 +10,10 @@ Project 1: Filtering operations
 -Combination of smoothing and subsampling
 
 Project 2: Edge detection & Hough transform
-- Difference Operators
-- Gradient Magnitude Thresholding
-- Differential Geometry Based Edge Detection
-- Edge Extraction and Hough Transform
+-Difference Operators
+-Gradient Magnitude Thresholding
+-Differential Geometry Based Edge Detection
+-Edge Extraction and Hough Transform
 
 Project 3: Image segmentation
 -K-means Clustering Algorithm
